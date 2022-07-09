@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+}
+
+body {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin-top: 70px;
+    margin-bottom: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.7rem;
+    color: #A6B1E1;
+}
+
+h2 {
+    margin: 0px auto 30px auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #A6B1E1;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #8e98c5;
+    margin-bottom: 20px;
+}
+
+a {
+    color: #DCD6F7;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 8;
+    margin-top: px;
+    display: inline-block;
+    text-decoration: none;
+    
+}
+
+.footer-text {
+    color: #beb6df; 
+    padding-top: 10px;
+}
+
+p {
+    line-height: 2;
+    /* color: #beb6df; */
+    color: black;
+}
+
+
+
+
+hr {
+    border-style: dotted none none none;
+    height: 0px;
+    width: 6%;
+    border-color: #F4EEFF;
+    border-width: 10px;
+    margin: 4rem auto 4rem auto;
+}
+
+.top {
+    background-color: #F4EEFF;
+    position: relative;
+    padding-top: 100px;
+    
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.kat {
+    max-width: 15%;
+    height: auto;
+    border-radius: 50%;
+    margin: 30px auto 30px auto;
+}
+
+.doge {
+    max-width: 20%;
+    height: auto;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+
+.mouse {
+    width: 20%;
+    border-radius: 50%;
+    float: right;
+    margin-left: 0;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    padding-bottom: 3rem;
+}
+
+p.skill-row {
+    line-height: 2;
+}
+
+h2.middle{
+    margin: 30px auto 30px auto;
+}
+
+.bottom {
+    margin-top: 5rem;
+    margin-bottom: 0;
+    padding: 2rem;
+    background-color: #424874;
+}
+
+.contact-me {
+    margin: 3rem auto 1rem auto;
+}
+
+.footer-link {
+    border-radius: 7;
+    background-color: #5b6297;
+    padding: 5px 10px 5px 10px;
+}
+
+.footer-link:hover {
+    background: #A6B1E1;
+    text-decoration: none;
+}
+
+
+.btn {
+    border-radius: 8px;
+    color: #DCD6F7;
+    background: #424874;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 20px auto 20px auto;
+  }
+  
+  .btn:hover {
+    background: #A6B1E1;
+    text-decoration: none;
+  }
